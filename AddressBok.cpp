@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+//Testar lägga till en rad 
 using namespace std;
 
 // Definiera struct f�r en kontakt
